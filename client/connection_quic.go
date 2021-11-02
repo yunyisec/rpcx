@@ -8,7 +8,7 @@ import (
 
 	"github.com/lucas-clemente/quic-go"
 
-	"github.com/smallnest/quick"
+	"github.com/yunyisec/quick"
 )
 
 func newDirectQuicConn(c *Client, network, address string) (net.Conn, error) {

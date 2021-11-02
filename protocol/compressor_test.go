@@ -4,8 +4,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/smallnest/rpcx/codec"
-	"github.com/smallnest/rpcx/protocol/testdata"
+	"github.com/yunyisec/rpcx/codec"
+	"github.com/yunyisec/rpcx/protocol/testdata"
 )
 
 func newBenchmarkMessage() *testdata.BenchmarkMessage {

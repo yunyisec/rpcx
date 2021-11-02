@@ -32,7 +32,7 @@ require (
 	github.com/yunyisec/libkv v0.8.0
 	github.com/rs/cors v1.7.0
 	github.com/rubyist/circuitbreaker v2.2.1+incompatible
-	github.com/smallnest/quick v0.0.0-20200505103731-c8c83f9c76d3
+	github.com/yunyisec/quick v0.0.0-20200505103731-c8c83f9c76d3
 	github.com/soheilhy/cmux v0.1.4
 	github.com/stretchr/testify v1.7.0
 	github.com/templexxx/cpufeat v0.0.0-20180724012125-cef66df7f161 // indirect

@@ -5,7 +5,7 @@ import (
 	"io/ioutil"
 
 	"github.com/golang/snappy"
-	"github.com/smallnest/rpcx/util"
+	"github.com/yunyisec/rpcx/util"
 )
 
 // Compressor defines a common compression interface.

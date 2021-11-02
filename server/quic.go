@@ -6,7 +6,7 @@ import (
 	"errors"
 	"net"
 
-	"github.com/smallnest/quick"
+	"github.com/yunyisec/quick"
 )
 
 func init() {

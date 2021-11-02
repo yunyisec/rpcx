@@ -64,10 +64,10 @@
 - Support dynamic port allocation
 - Use go module to manage dependencies
 - Support shutdown graceful
-- Add [rpcx-java](https://github.com/smallnest/rpcx-java) to support develop raw java services and clients
+- Add [rpcx-java](https://github.com/yunyisec/rpcx-java) to support develop raw java services and clients
 - Support thrift codec 
 - Setup rpcx offcial site: http://rpcx.io
-- Add Chinese document: http://cn.doc.rpcx.io or https://smallnest.gitbooks.io/go-rpc-programming-guide
+- Add Chinese document: http://cn.doc.rpcx.io or https://yunyisec.gitbooks.io/go-rpc-programming-guide
 
 ## 1.3.1
 
@@ -83,7 +83,7 @@ fix bugs.
 
 - Rewrite rpcx. It implements its protocol and won't implemented based on wrapper of go standard rpc lib
 - Add go tags for pluggable plugins
-- Add English document: https://github.com/smallnest/rpcx-programming
+- Add English document: https://github.com/yunyisec/rpcx-programming
 - Add rpcx 3.0 examples: https://github.com/yunyisec/rpcx-examples
 
 rpcx 3.0 is not compatible with rpcx 2.0 and below

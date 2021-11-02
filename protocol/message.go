@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/smallnest/rpcx/util"
+	"github.com/yunyisec/rpcx/util"
 	"github.com/valyala/bytebufferpool"
 )
 

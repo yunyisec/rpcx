@@ -14,7 +14,7 @@ import (
 	"github.com/yunyisec/libkv"
 	"github.com/yunyisec/libkv/store"
 	"github.com/yunyisec/libkv/store/consul"
-	"github.com/smallnest/rpcx/log"
+	"github.com/yunyisec/rpcx/log"
 )
 
 func init() {
