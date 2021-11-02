@@ -29,7 +29,7 @@ require (
 	github.com/peterbourgon/g2s v0.0.0-20140925154142-ec76db4c1ac1 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/rcrowley/go-metrics v0.0.0-20200313005456-10cdbea86bc0
-	github.com/yunyisec/libkv v0.5.1-0.20210420120011-1fceaedca8a5
+	github.com/yunyisec/libkv v0.8.0
 	github.com/rs/cors v1.7.0
 	github.com/rubyist/circuitbreaker v2.2.1+incompatible
 	github.com/smallnest/quick v0.0.0-20200505103731-c8c83f9c76d3
