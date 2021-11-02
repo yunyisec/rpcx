@@ -1,7 +1,7 @@
 # [rpcx](http://rpcx.io)
 
 ## 1.7.0 (developing)
-- move etcd support to github.com/rpcxio/rpcx-etcd
+- move etcd support to github.com/yunyisec/rpcx-etcd
 - Broken API: NewXXXDiscovery returns error instead of panic
 - support AdvertiseAddr in FileTransfer
 - support Auth for OneClientPool
@@ -71,7 +71,7 @@
 
 ## 1.3.1
 
-- Add http gateway: https://github.com/rpcxio/rpcx-gateway
+- Add http gateway: https://github.com/yunyisec/rpcx-gateway
 - Add direct http invoke
 - Add bidirectional communication 
 - Add xgen tool to generate codes for services automatically
@@ -84,6 +84,6 @@ fix bugs.
 - Rewrite rpcx. It implements its protocol and won't implemented based on wrapper of go standard rpc lib
 - Add go tags for pluggable plugins
 - Add English document: https://github.com/smallnest/rpcx-programming
-- Add rpcx 3.0 examples: https://github.com/rpcxio/rpcx-examples
+- Add rpcx 3.0 examples: https://github.com/yunyisec/rpcx-examples
 
 rpcx 3.0 is not compatible with rpcx 2.0 and below

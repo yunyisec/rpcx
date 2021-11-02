@@ -9,7 +9,7 @@ Official site: [http://rpcx.io](http://rpcx.io/)
 
 **Notice: etcd**
 
-`etcd` plugin has been moved to [rpcx-etcd](https://github.com/rpcxio/rpcx-etcd)
+`etcd` plugin has been moved to [rpcx-etcd](https://github.com/yunyisec/rpcx-etcd)
 
 ## Announce
 
@@ -21,7 +21,7 @@ A tcpdump-like tool added: [rpcxdump](https://github.com/smallnest/rpcxdump)。 
 ## Cross-Languages
 you can use other programming languages besides Go to access rpcx services.
 
-- **rpcx-gateway**: You can write clients in any programming languages to call rpcx services via [rpcx-gateway](https://github.com/rpcxio/rpcx-gateway)
+- **rpcx-gateway**: You can write clients in any programming languages to call rpcx services via [rpcx-gateway](https://github.com/yunyisec/rpcx-gateway)
 - **http invoke**: you can use the same http requests to access rpcx gateway
 - **Java Services/Clients**: You can use [rpcx-java](https://github.com/smallnest/rpcx-java) to implement/access rpcx servies via raw protocol.
 
@@ -133,7 +133,7 @@ The benchmark code is at [rpcx-benchmark](https://github.com/rpcx-ecosystem/rpcx
 
 ## Examples
 
-You can find all examples at [rpcxio/rpcx-examples](https://github.com/rpcxio/rpcx-examples).
+You can find all examples at [yunyisec/rpcx-examples](https://github.com/yunyisec/rpcx-examples).
 
 The below is a simple example.
 

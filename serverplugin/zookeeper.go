@@ -10,11 +10,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/rpcxio/libkv"
-	"github.com/rpcxio/libkv/store/zookeeper"
+	"github.com/yunyisec/libkv"
+	"github.com/yunyisec/libkv/store/zookeeper"
 
 	metrics "github.com/rcrowley/go-metrics"
-	"github.com/rpcxio/libkv/store"
+	"github.com/yunyisec/libkv/store"
 	"github.com/smallnest/rpcx/log"
 )
 
